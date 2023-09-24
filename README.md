@@ -1,7 +1,7 @@
 ### PARIS PETTIS
 ## :computer: CSE Student @UniversityOfIoannina - Greece :computer:
 ## ◼️ Full Stack Devloper ◼️
-## 💼 Internship as Software Developer at HFMarkets, Cyprus 💼
+## 💼 Junior Software Developer at HFMarkets, Cyprus 💼
 
 - :world_map: Currently located in Ioannina/Greece for studies but i am originally from Larnaca, Cyprus.
 - 🔭 Design and Development for Websites and Web Applications [ Frontend & Backend ]
