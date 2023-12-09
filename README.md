@@ -1,5 +1,14 @@
 <h2 align="left">Hi 👋! My name is Paraskevas Pettis and I'm a Junior Software Developer, studying at the University of Ioannina</h2>
 
+
+I am a Computer Science and Engineering Student at the University of Ioannina, currently working as a Software Developer Intern @HFMarkets in Cyprus and Freelancing as a QA Tester and Content Writer(documentation).
+
+In my freetime I am practicing my programming skills by developing my own projects, read books, and sometimes I play some video games.
+
+Interested in developing web applications, websites, and any kind of software from scratch, as well as reading, fixing or testing other software.
+
+Strong work ethic and always dedicated to my tasks. Pasionate about learning new things. Team player with good communication skills and fluency in English and Greek. Find the technologies and programming languages I use below!
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/JwwYTeuOHhEB2/giphy.gif"  />
