@@ -16,7 +16,7 @@ I am interested in developing web applications, websites, and any kind of softwa
 
 ###
 
-<img align="right" height="130" src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif"  />
+<img align="right" height="150" src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif"  />
 
 ###
 
@@ -66,11 +66,11 @@ I am interested in developing web applications, websites, and any kind of softwa
 
 <div align="left">
   <a href="https://www.linkedin.com/in/paraskevas-pettis-112024237/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
-  <img src="https://img.shields.io/static/v1?message=pettisparis@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=pettis_paris@hotmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=TommyVercettis&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=pettisparis@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=pettis_paris@hotmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
+  <img src="https://img.shields.io/static/v1?message=TommyVercettis&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
 ###
