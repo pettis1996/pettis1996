@@ -1,14 +1,11 @@
-<h3 align="left">Hi 👋!</h2>
-<h2 align="left">My name is Paraskevas Pettis and I'm a Junior Software Developer, studying at the University of Ioannina</h3>
+<h2 align="left">Hi 👋! <br>My name is Paraskevas Pettis and I'm a Junior Software Developer, studying at the University of Ioannina</h2>
 
+###
 
-I am a Computer Science and Engineering Student at the University of Ioannina, currently working as a Software Developer Intern @HFMarkets in Cyprus and Freelancing as a QA Tester and Content Writer(documentation).
-
-In my freetime I am practicing my programming skills by developing my own projects, read books, and sometimes I play some video games.
-
-Interested in developing web applications, websites, and any kind of software from scratch, as well as reading, fixing or testing other software.
-
-Strong work ethic and always dedicated to my tasks. Pasionate about learning new things. Team player with good communication skills and fluency in English and Greek. Find the technologies and programming languages I use below!
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pettis1996&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pettis1996&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
 ###
 
@@ -72,6 +69,13 @@ Strong work ethic and always dedicated to my tasks. Pasionate about learning new
   </a>
   <a href="tommyvercettis" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  </a>
 </div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/pettis1996/pettis1996/output/snake.svg" alt="Snake animation" />
 
 ###
