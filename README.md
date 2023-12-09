@@ -82,6 +82,6 @@ I am a **Computer Science and Engineering** Student at the **University of Ioann
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/pettis1996/pettis1996/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pettis1996/pettis1996/tree/output/snake.svg" alt="Snake animation" />
 
 ###
