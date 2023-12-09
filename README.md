@@ -16,7 +16,7 @@ I am interested in developing web applications, websites, and any kind of softwa
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif"  />
+<img align="right" height="160" src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif"  />
 
 ###
 
