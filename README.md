@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! <br>My name is Paraskevas Pettis and I'm a Junior Software Developer, studying at the University of Ioannina</h2>
+<h2 align="left">Hi 👋! Welcome to my GitHub Profile! <br>My name is Paraskevas Pettis</h2>
 
 ###
 
