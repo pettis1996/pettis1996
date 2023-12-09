@@ -1,7 +1,8 @@
-<h2 align="left">Hi 👋! Welcome to my GitHub Profile! <br>My name is Paraskevas Pettis</h2>
+<h2 align="left">Hi 👋! Welcome to my GitHub Profile!</h2>
 
 ###
 
+<h3>My name is Paraskevas Pettis,</h3>
   I am a **Computer Science and Engineering** Student at the **University of Ioannina**, currently working as a **Software Developer** @HFMarkets in Cyprus and Freelancing as a **QA Tester and Content Writer(documentation)**.
 
 <div align="center">
