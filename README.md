@@ -7,6 +7,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pettis1996&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
+I am a **Computer Science and Engineering** Student at the **University of Ioannina**, currently working as a **Software Developer** @HFMarkets in Cyprus and Freelancing as a **QA Tester and Content Writer(documentation)**.
+
 ###
 
 <img align="right" height="150" src="https://media.giphy.com/media/JwwYTeuOHhEB2/giphy.gif"  />
