@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Paraskevas Pettis and I'm a Junior Software Developer, studying at the University of Ioannina</h2>
+<h2 align="left">Hi 👋! <br><br> My name is Paraskevas Pettis and I'm a Junior Software Developer, studying at the University of Ioannina</h2>
 
 
 I am a Computer Science and Engineering Student at the University of Ioannina, currently working as a Software Developer Intern @HFMarkets in Cyprus and Freelancing as a QA Tester and Content Writer(documentation).
