@@ -5,7 +5,7 @@
 <h3>My name is Paris Pettis,</h3>
 
 I am a **Computer Science and Engineering** Student at the **University of Ioannina**, currently working as a **Software Developer** @HFMarkets in Cyprus and Freelancing as a **QA Tester and Content Writer(documentation)**.
-Interested in developing web applications, websites, and any kind of software from scratch, as well as reading, fixing or testing other software/code.
+I am interested in developing web applications, websites, and any kind of software from scratch, as well as reading, fixing or testing other software/code.
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=pettis1996&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
