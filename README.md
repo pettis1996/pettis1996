@@ -8,7 +8,7 @@ I am a **Computer Science and Engineering** Student at the **University of Ioann
 I am interested in developing web applications, websites, and any kind of software from scratch, as well as reading, fixing or testing other software/code.
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pettis1996&theme=highcontrast" alt="GitHub Streak" /></a>
+    [![GitHub Streak](https://streak-stats.demolab.com?user=pettis1996&theme=highcontrast)](https://git.io/streak-stats)
 </div>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pettis1996&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
