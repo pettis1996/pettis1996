@@ -12,7 +12,7 @@ I am interested in developing web applications, websites, and any kind of softwa
 </div>
 
 <div align="center">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pettis1996&theme=tokyo-night" height="200" alt="languages graph"  />
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=pettis1996&theme=tokyo-night" height="300" alt="languages graph"  />
 </div>
 
 ###
