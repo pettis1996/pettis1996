@@ -15,12 +15,6 @@ I am interested in developing web applications, websites, and any kind of softwa
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pettis1996&theme=tokyo-night" height="200" alt="languages graph"  />
 </div>
 
-<--
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pettis1996&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
--->
-
 ###
 
 <img align="right" height="160" src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif"  />
