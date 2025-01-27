@@ -8,7 +8,7 @@ I am a **Computer Science and Engineering** Student at the **University of Ioann
 I am interested in developing web applications, websites, and any kind of software from scratch, as well as reading, fixing or testing other software/code.
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=pettis1996&show_icons=true&theme=radical" height="250" alt="languages graph"  />
+    <img src="https://github-readme-stats.vercel.app/api?username=pettis1996&show_icons=true&theme=tokyonight" height="200" alt="languages graph"  />
 </div>
 
 <div align="center">
