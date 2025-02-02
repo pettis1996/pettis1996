@@ -11,6 +11,8 @@ I am interested in developing web applications, websites, and any kind of softwa
     <img src="https://streak-stats.demolab.com?user=pettis1996&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" height="280" alt="languages graph"  />
 </div>
 
+###
+
 <div align="center">
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=pettis1996&theme=tokyo-night" height="250" alt="languages graph"  />
 </div>
