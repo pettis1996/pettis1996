@@ -8,7 +8,7 @@ I am a **Computer Science and Engineering** Student at the **University of Ioann
 I am interested in developing web applications, websites, and any kind of software from scratch, as well as reading, fixing or testing other software/code.
 
 <div align="center">
-    <img src="https://streak-stats.demolab.com?user=pettis1996&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" height="280" alt="languages graph"  />
+    <img src="https://streak-stats.demolab.com?user=pettis1996&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="languages graph"  />
 </div>
 
 ###
