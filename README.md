@@ -22,7 +22,7 @@ I am interested in developing web applications, websites, and any kind of softwa
 <img align="right" height="160" src="https://media.giphy.com/media/cODrlNTkGnZGVtVagd/giphy.gif"  />
 
 ###
-
+<!--
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -64,6 +64,7 @@ I am interested in developing web applications, websites, and any kind of softwa
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
+-->
 
 ###
 
