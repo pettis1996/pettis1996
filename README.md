@@ -4,7 +4,7 @@
 
 <h3>My name is Paris Pettis,</h3>
 
-I'm a Frontend Developer with 3+ years of experience building modern web apps using Next.js and TypeScript. 
+I'm a Full Stack Software Developer focusing on Frontend Development with 3+ years of experience building modern web apps using Next.js and TypeScript. 
 I also work with Python and FastAPI on the backend, and have experience with MariaDB, MySQL, and MongoDB. 
 I focus on clean, responsive UI and enjoy contributing across the stack to build scalable, user-friendly websites & web applications.
 
