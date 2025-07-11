@@ -4,8 +4,9 @@
 
 <h3>My name is Paris Pettis,</h3>
 
-I am a **Computer Science and Engineering** Student at the **University of Ioannina**, currently working as a **Software Developer** @HFMarkets in Cyprus and Freelancing         as a **QA Tester and Content Writer(documentation)**.
-I am interested in developing web applications, websites, and any kind of software from scratch, as well as reading, fixing or testing other software/code.
+I'm a Frontend Developer with 3+ years of experience building modern web apps using Next.js and TypeScript. 
+I also work with Python and FastAPI on the backend, and have experience with MariaDB, MySQL, and MongoDB. 
+I focus on clean, responsive UI and enjoy contributing across the stack to build scalable, user-friendly websites & web applications.
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=pettis1996&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="languages graph"  />
