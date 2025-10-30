@@ -1,4 +1,4 @@
-## 👋 Hey there, I'm Paris, a Full Stack Software Engineer 🚀  
+## 👋 Hey there, I'm Paris Pettis (PettisDev.) - a Full Stack Software Engineer - 🚀  
 
 I'm passionate about crafting **clean, modern, and responsive** web apps — the kind that not only look great but *feel* great to use.  
 
