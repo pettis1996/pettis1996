@@ -1,10 +1,4 @@
-<h2 align="left">Hi 👋! Welcome to my GitHub Profile!</h2>
-
-###
-
-<h3>My name is Paris Pettis,</h3>
-
-## 👋 Hey there, I'm a Full Stack Developer who loves building things that live on the web 🚀  
+## 👋 Hey there, I'm Paris, a Full Stack Software Engineer 🚀  
 
 I'm passionate about crafting **clean, modern, and responsive** web apps — the kind that not only look great but *feel* great to use.  
 
