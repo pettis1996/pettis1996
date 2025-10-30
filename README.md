@@ -74,7 +74,7 @@ I focus on clean, responsive UI and enjoy contributing across the stack to build
   </a>
   <img src="https://img.shields.io/static/v1?message=pettisparis@gmail.com&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
   <img src="https://img.shields.io/static/v1?message=pettis_paris@hotmail.com&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="microsoft-outlook logo"  />
-  <img src="https://img.shields.io/static/v1?message=TommyVercettis&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=pettis1996&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
 </div>
 
 ###
