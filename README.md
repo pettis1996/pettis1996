@@ -4,9 +4,18 @@
 
 <h3>My name is Paris Pettis,</h3>
 
-I'm a Full Stack Software Developer focusing on Frontend Development with 3+ years of experience building modern web apps using Next.js and TypeScript. 
-I also work with Python and FastAPI on the backend, and have experience with MariaDB, MySQL, and MongoDB. 
-I focus on clean, responsive UI and enjoy contributing across the stack to build scalable, user-friendly websites & web applications.
+## 👋 Hey there, I'm a Full Stack Developer who loves building things that live on the web 🚀  
+
+I'm passionate about crafting **clean, modern, and responsive** web apps — the kind that not only look great but *feel* great to use.  
+
+With **3+ years of experience**, I focus mainly on **Frontend Development** using **Next.js** and **TypeScript**, but I also enjoy diving into the **backend** with **Python (FastAPI)** and databases like **MariaDB**, **MySQL**, and **MongoDB**.  
+
+I love bringing ideas to life — turning concepts into **scalable**, **user-friendly**, and **high-performing** digital products.  
+
+When I'm not coding, I'm probably tweaking UI details, experimenting with new tech stacks, or brainstorming ways to make apps more seamless for users.  
+
+💡 *Always learning. Always building.*
+
 
 <div align="center">
     <img src="https://streak-stats.demolab.com?user=pettis1996&theme=tokyonight&hide_border=true&border_radius=25&date_format=M%20j%5B%2C%20Y%5D" height="200" alt="languages graph"  />
