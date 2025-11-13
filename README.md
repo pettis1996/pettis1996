@@ -23,7 +23,7 @@ When I'm not coding, I'm probably tweaking UI details, experimenting with new te
 
 ###
 
-[<img src="https://i.ibb.co/m5YDtLps/astro-avatar-14-ts.png" alt="astro-avatar-14-ts" border="0">](https://i.ibb.co/xqcCGpZv/astro-avatar-14-ts.png)
+[<img src="https://i.ibb.co/m5YDtLps/astro-avatar-14-ts.png" width="150" alt="astro-avatar-14-ts" border="0">](https://i.ibb.co/xqcCGpZv/astro-avatar-14-ts.png)
 
 ###
 
