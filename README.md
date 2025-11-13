@@ -23,9 +23,7 @@ When I'm not coding, I'm probably tweaking UI details, experimenting with new te
 
 ###
 
-<div align="center">
-    <img src="https://i.ibb.co/m5YDtLps/astro-avatar-14-ts.png" alt="astro-avatar-14-ts" border="0">
-</div>
+[<img src="https://i.ibb.co/m5YDtLps/astro-avatar-14-ts.png" alt="astro-avatar-14-ts" border="0">](https://i.ibb.co/xqcCGpZv/astro-avatar-14-ts.png)
 
 ###
 
