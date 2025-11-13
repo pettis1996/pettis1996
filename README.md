@@ -27,6 +27,10 @@ When I'm not coding, I'm probably tweaking UI details, experimenting with new te
 
 ###
 
+<img align="right" height="160" src="https://private-user-images.githubusercontent.com/25777515/514058468-93050167-c20b-4fde-9536-548419a9b97e.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjMwNjIxNDksIm5iZiI6MTc2MzA2MTg0OSwicGF0aCI6Ii8yNTc3NzUxNS81MTQwNTg0NjgtOTMwNTAxNjctYzIwYi00ZmRlLTk1MzYtNTQ4NDE5YTliOTdlLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTExMTMlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUxMTEzVDE5MjQwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTNmZTgwNTk4Zjk1MmE5ZTFhNjdjOWQ3NTZiNzMwNDM1MDdhOGUzOThmYzJjMTBkNDNiYmM2OWIzMTU3ZWZjZmEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.VsAa_4uyj-acGQ905_dGxJpHH3lMtxF9L-hFp2NZl24"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
