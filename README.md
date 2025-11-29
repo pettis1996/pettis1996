@@ -2,7 +2,7 @@
 
 I'm passionate about crafting **clean, modern, and responsive** web apps — the kind that not only look great but *feel* great to use.  
 
-With **3+ years of experience**, I focus mainly on **Frontend Development** using **Next.js** and **TypeScript**, but I also enjoy diving into the **backend** with **Python (FastAPI)** and databases like **MariaDB**, **MySQL**, and **MongoDB**.  
+With **3+ years of experience**, I focus mainly on **Frontend Development** using **Next.js** and **TypeScript**, but I also enjoy diving into the **backend** with **Python (FastAPI)** and databases like **Postgres**, **MySQL**, and **MongoDB**.  
 
 I love bringing ideas to life — turning concepts into **scalable**, **user-friendly**, and **high-performing** digital products.  
 
